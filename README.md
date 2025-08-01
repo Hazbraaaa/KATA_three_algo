@@ -1,4 +1,4 @@
-# 🧠 Adalicious
+# 🧠 Three Algo
 
 > Réaliser 3 petits exercices d'algorithme.
 
